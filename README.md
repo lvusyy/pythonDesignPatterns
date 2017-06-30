@@ -16,3 +16,4 @@
 ####2.1适配器模式
 ######external.py 模块文件
 ######2.1.1adapter.py 适配器文件
+######2.1.2memoization.py 修饰器模式
