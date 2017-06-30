@@ -3,7 +3,7 @@
 <h4>1.1 工厂模式</h4>
 <h5>[1.1_factory_method.py](https://github.com/lvusyy/pythonDesignPatterns/blob/master/1.1.1_factory_method.py) 
 ###1.2 抽象工厂
-<h5>[1.2_abstract_factory.py](https://github.com/lvusyy/pythonDesignPatterns/blob/master/1.2_abstract_factory.py) 
+<h5>[1.2_abstract_factory.py](https://github.com/lvusyy/pythonDesignPatterns/blob/master/1.2_abstract_factory.py)</h5>
 ###1.2 建造者模式
 <h5>[2.1computer_builder.py](https://github.com/lvusyy/pythonDesignPatterns/blob/master/2.1computer_builder.py) 
 <h5>[2.2builder.py](https://github.com/lvusyy/pythonDesignPatterns/blob/master/2.2builder.py) 
